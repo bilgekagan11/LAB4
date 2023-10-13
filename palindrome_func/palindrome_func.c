@@ -1,3 +1,5 @@
+//Description:
+//İts for checking  one of word is palindrome word or not 
 int checkpalindrome(char *word,LINKED_STACK stack){
     char * temp = word;
     char stackchar ;
